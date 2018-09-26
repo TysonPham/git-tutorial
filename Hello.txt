@@ -1,1 +1,7 @@
 My name is Felix
+edit:purple
+<<<<<<< HEAD
+edit2: blue
+=======
+edit2:blue
+>>>>>>> 16b53764609927816508783b70545e7f2c2ad08c
